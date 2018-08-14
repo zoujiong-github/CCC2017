@@ -1,0 +1,11 @@
+
+*.in
+*.out
+*.txt
+*.class
+senior_data/s4/grade.bat
+*.java~
+junior_data/j5/j5.02.out1
+junior_data/j5/j5.03.out1
+junior_data/j5/j5.10.out1
+junior_data/j4/Main1.java
